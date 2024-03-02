@@ -50,8 +50,7 @@ Once the Streamlit app is running, you can interact with it in the following way
 ![Screenshot 4](/Foodchoicesscreenshots/fc4.png)
 ![Screenshot 5](/Foodchoicesscreenshots/fc5.png)
 ![Screenshot 6](/Foodchoicesscreenshots/fc6.png)
-![Screenshot 7](/Foodchoicesscreenshots/fc7.png)
-![Screenshot 8](/Foodchoicesscreenshots/fc8.png)
+
 
 
 ## Contact
