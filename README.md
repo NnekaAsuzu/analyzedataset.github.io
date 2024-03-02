@@ -44,10 +44,6 @@ Once the Streamlit app is running, you can interact with it in the following way
 
 ## App Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
-
-
 ![Screenshot 1](/Foodchoicesscreenshots/fc1.png)
 ![Screenshot 2](/Foodchoicesscreenshots/fc2.png)
 ![Screenshot 3](/Foodchoicesscreenshots/fc3.png)
@@ -57,9 +53,6 @@ Once the Streamlit app is running, you can interact with it in the following way
 ![Screenshot 7](/Foodchoicesscreenshots/fc7.png)
 ![Screenshot 8](/Foodchoicesscreenshots/fc8.png)
 
-## License
-
-This project is licensed under the CC0: Public Domain License. 
 
 ## Contact
 
