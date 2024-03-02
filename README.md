@@ -49,7 +49,7 @@ Once the Streamlit app is running, you can interact with it in the following way
 
 ## License
 
-This project is licensed under the CC0: Public Domain License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the CC0: Public Domain License. 
 
 ## Contact
 
