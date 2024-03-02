@@ -59,6 +59,7 @@ plt.xlabel('Gender\n1 – Female\n2 – Male')
 plt.ylabel('Count')
 st.pyplot()
 
+
 # Employment Status vs. Eating Out Frequency
 plt.figure(figsize=(10, 6))
 sns.countplot(x="employment", hue="eating_out", data=df)
@@ -73,7 +74,6 @@ plt.text(0, -0.2, "Eating Out Frequency:\n1 - Never\n2 - 1-2 times\n3 - 2-3 time
          transform=plt.gca().transAxes, fontsize=10, verticalalignment='top')
 plt.text(0, -0.3, "Employment Status:\n1 - Yes, full time\n2 - Yes, part time\n3 - No\n4 - Other",
          transform=plt.gca().transAxes, fontsize=10, verticalalignment='top')
-
 st.pyplot(plt.gcf())  # Display the plot in Streamlit
 
 #Comfort Food vs. Weight
