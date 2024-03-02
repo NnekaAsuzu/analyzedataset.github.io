@@ -53,4 +53,4 @@ This project is licensed under the CC0: Public Domain License. See the [LICENSE]
 
 ## Contact
 
-For inquiries or feedback, please contact Nneka Asuzu at [nnasuzu@gmail.com](mailto:nnasuzu@gmail.com).
+For inquiries or feedback, please contact Nneka Asuzu at nnasuzu[at]gmail[dot]com
