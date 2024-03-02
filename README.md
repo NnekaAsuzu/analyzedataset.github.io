@@ -42,10 +42,20 @@ Once the Streamlit app is running, you can interact with it in the following way
 - Data analysis based on demographic factors.
 - Insights into food preferences and choices.
 
-## Screenshots of App
+## App Screenshots
 
 ![Screenshot 1](/screenshots/screenshot1.png)
 ![Screenshot 2](/screenshots/screenshot2.png)
+
+
+![Screenshot 1](/Foodchoicesscreenshots/fc1.png)
+![Screenshot 2](/Foodchoicesscreenshots/fc2.png)
+![Screenshot 3](/Foodchoicesscreenshots/fc3.png)
+![Screenshot 4](/Foodchoicesscreenshots/fc4.png)
+![Screenshot 5](/Foodchoicesscreenshots/fc5.png)
+![Screenshot 6](/Foodchoicesscreenshots/fc6.png)
+![Screenshot 7](/Foodchoicesscreenshots/fc7.png)
+![Screenshot 8](/Foodchoicesscreenshots/fc8.png)
 
 ## License
 
