@@ -10,7 +10,7 @@ Food choices Streamlit app [here][1].
 [1]: https://foodchoice.streamlit.app
 
 
-[Food choices Streamlit app](https://foodchoices.streamlit.app){:target="_blank"}.
+<a href="https://foodchoices.streamlit.app" target="_blank">Food choices Streamlit app</a>.
 
 
 
