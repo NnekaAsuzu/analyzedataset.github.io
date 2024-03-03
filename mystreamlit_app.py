@@ -71,6 +71,12 @@ plt.xticks(rotation=45)
 plt.title("Employment Status vs. Eating Out Frequency")
 plt.legend(title="Eating Out Frequency")
 
+# Add descriptions with increased vertical spacing
+plt.text(0, -0.4, "Eating Out Frequency:\n1 - Never\n2 - 1-2 times\n3 - 2-3 times\n4 - 3-5 times\n5 - Every day",
+         transform=plt.gca().transAxes, fontsize=10, verticalalignment='top')
+plt.text(0, -0.5, "Employment Status:\n1 - Yes, full time\n2 - Yes, part time\n3 - No\n4 - Other",
+         transform=plt.gca().transAxes, fontsize=10, verticalalignment='top')
+st.pyplot(plt.gcf())  # Display the plot in Streamlit
 
 #Comfort Food vs. Weight
 def display_comfort_food_vs_weight():
