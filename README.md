@@ -7,7 +7,7 @@ This project is a Streamlit app that analyzes the food choices and preferences o
 Food choices Streamlit app [here][1].
 
 
-[1]: https://foodchoices.streamlit.app
+[1]: https://foodchoice.streamlit.app
 
 
 ## Dataset
