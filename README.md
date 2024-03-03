@@ -1,14 +1,13 @@
-Food choices Streamlit app [here][1].
-
-
-[1]: https://foodchoices.streamlit.app
-
-
-
 
 # Food Choices Streamlit App
 
 This project is a Streamlit app that analyzes the food choices and preferences of college students based on the "Food choices and preferences of college students" dataset.
+
+
+Food choices Streamlit app [here][1].
+
+
+[1]: https://foodchoices.streamlit.app
 
 
 ## Dataset
