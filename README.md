@@ -10,7 +10,8 @@ Food choices Streamlit app [here][1].
 [1]: https://foodchoice.streamlit.app
 
 
-Food choices Streamlit app [here](https://foodchoices.streamlit.app){:target="_blank"}.
+[Food choices Streamlit app](https://foodchoices.streamlit.app){:target="_blank"}.
+
 
 
 ## Dataset
