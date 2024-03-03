@@ -56,8 +56,15 @@ st.pyplot()
 
 
 # Employment Status vs. Eating Out Frequency
+# Reorder the categories for better visualization
+df['eating_out'] = df['eating_out'].map({1: "Never", 2: "1-2 times", 3: "2-3 times", 4: "3-5 times", 5: "Every day"})
+
+# Reorder the categories for employment status
+df['employment'] = df['employment'].map({1: "Yes, full time", 2: "Yes, part time", 3: "No", 4: "Other"})
+
+# Plot the data
 plt.figure(figsize=(10, 6))
-sns.countplot(x="employment", hue="eating_out", data=df)
+sns.countplot(x="employment", hue="eating_out", data=df, order=["Yes, full time", "Yes, part time", "No", "Other"])
 plt.xlabel("Employment Status")
 plt.ylabel("Count")
 plt.xticks(rotation=45)
