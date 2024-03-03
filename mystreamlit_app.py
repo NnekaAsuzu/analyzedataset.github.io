@@ -14,10 +14,6 @@ st.title("Food Choices and Preferences of College Students")
 
 
 
->>> fig, ax = plt.subplots()
->>> ax.scatter([1, 2, 3], [1, 2, 3])
->>>    ... other plotting actions ...
->>> st.pyplot(fig)
 st.set_option('deprecation.showPyplotGlobalUse', False)
     
 # Sidebar
