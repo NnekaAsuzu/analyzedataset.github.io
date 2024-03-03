@@ -10,12 +10,6 @@ Food choices Streamlit app [here][1].
 [1]: https://foodchoice.streamlit.app
 
 
-<a href="https://foodchoices.streamlit.app" target="_blank">Food choices Streamlit app</a>.
-
-<a href="https://foodchoices.streamlit.app" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href,'_blank');return false;">Food choices Streamlit app</a>.
-
-
-
 
 ## Dataset
 
