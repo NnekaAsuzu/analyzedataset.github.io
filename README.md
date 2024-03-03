@@ -20,10 +20,11 @@ The dataset used in this project is the "Food choices and preferences of college
 
 To run the Streamlit app locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/NnekaAsuzu/Food-Choices-Streamlit-App.git`
+1. Clone the repository: `git clone https://github.com/NnekaAsuzu/analyzedataset.github.io
 2. Navigate to the project directory: `cd Food-Choices-Streamlit-App`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run the Streamlit app: `streamlit run app.py`
+
 
 ## Usage
 
