@@ -41,12 +41,13 @@ Once the Streamlit app is running, you can interact with it in the following way
 
 ## App Screenshots
 
-![Screenshot 1](/Foodchoicesscreenshots/fc1.png)
-![Screenshot 2](/Foodchoicesscreenshots/fc2.png)
-![Screenshot 3](/Foodchoicesscreenshots/fc3.png)
-![Screenshot 4](/Foodchoicesscreenshots/fc4.png)
-![Screenshot 5](/Foodchoicesscreenshots/fc5.png)
-![Screenshot 6](/Foodchoicesscreenshots/fc6.png)
+![Screenshot 1](/Foodchoicescreenshots/fc1.png)
+![Screenshot 2](/Foodchoicescreenshots/fc2.png)
+![Screenshot 3](/Foodchoicescreenshots/fc3.png)
+![Screenshot 4](/Foodchoicescreenshots/fc4.png)
+![Screenshot 5](/Foodchoicescreenshots/fc5.png)
+![Screenshot 6](/Foodchoicescreenshots/fc6.png)
+![Screenshot 7](/Foodchoicescreenshots/fc7.png)
 
 
 
