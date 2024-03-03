@@ -1,4 +1,3 @@
-# nnekaasuzu.github.io
 You can find the food choices Streamlit app [here][1].
 
 For more information, visit my [GitHub Pages site][2].
